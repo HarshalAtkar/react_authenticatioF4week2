@@ -30,7 +30,7 @@ const Login = ({ handleLogin }) => {
   };
 
   return (
-    <>
+    <div className='logindiv'>
       <h2>Login</h2>
       <input
         type="text"
@@ -45,7 +45,7 @@ const Login = ({ handleLogin }) => {
         onChange={(e) => setPassword(e.target.value)}
       />
       <button onClick={handleLoginClick} id='login-button'>Login</button>
-    </>
+    </div>
   );
 };
 

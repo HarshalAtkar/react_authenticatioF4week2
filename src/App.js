@@ -5,13 +5,14 @@ import Profile from './components/profiles';
 
 const App = () => {
   return (
-   
+   <>
+   <Login></Login>
     <Router>
       <Routes> 
-        <Route path="/" element={<Login />} />
         <Route path="/profiles" element={<Profile />} />
       </Routes>
     </Router>
+    </>
   );
 };
 

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_authenticatioF4week2/static/css/main.083c91ba.css",
+    "main.js": "/react_authenticatioF4week2/static/js/main.8636bf5f.js",
+    "index.html": "/react_authenticatioF4week2/index.html",
+    "main.083c91ba.css.map": "/react_authenticatioF4week2/static/css/main.083c91ba.css.map",
+    "main.8636bf5f.js.map": "/react_authenticatioF4week2/static/js/main.8636bf5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.083c91ba.css",
+    "static/js/main.8636bf5f.js"
+  ]
+}
